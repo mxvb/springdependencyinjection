@@ -1,6 +1,9 @@
 package com.switchfully.springdi.springdi;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public interface TaxCalculation {
 
-    double calculateTax(double yearlyIncome);
+    double calculateTaxes(double yearlyIncome);
 }

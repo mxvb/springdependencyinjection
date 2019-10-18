@@ -1,0 +1,7 @@
+com\switchfully\springdi\springdi\calculations\AmericanTaxCalculation.class
+com\switchfully\springdi\springdi\TaxCalculatorApp.class
+com\switchfully\springdi\springdi\TaxCalculation.class
+com\switchfully\springdi\springdi\calculations\BelgianTaxCalculation.class
+configuration\AppConfig.class
+com\switchfully\springdi\springdi\calculations\FrenchTaxCalculation.class
+com\switchfully\springdi\springdi\TaxCalculator.class
